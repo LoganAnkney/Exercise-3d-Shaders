@@ -47,6 +47,10 @@ Add a background to the game
 Added new paddle, and ball appearance to match my acorn / squirrel asthetics
 New Tree / Squirrel theme added to assets previously not so
 
+Score tracked
+Main menu and end screen
+3 levels
+
 Very Juicy.
 
 Obviously an error somewhere, though I don't know how.
